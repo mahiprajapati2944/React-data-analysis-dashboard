@@ -1,11 +1,7 @@
 # React-data-analysis-dashboard
 To get started:
 
-Clone the repository:
-
-git clone https://github.com/Kamona-WD/kwd-dashboard.git
-
-cd kwd-dashboard
+cd Stock-price-analysis-dashboard
 Install the dependencies:
 
 # Using npm
